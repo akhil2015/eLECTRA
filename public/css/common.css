@@ -1,0 +1,21 @@
+.amount span{
+	font-size:32px;
+	font-weight:bold;
+}
+
+.pastBills,.downl{
+	font-size: 20px;
+	text-decoration: underline;
+	margin-top:50px;
+}
+.panel-heading{
+	text-align: center;
+	font-size: 30px;
+}
+.current{
+	font-size: 20px;
+}
+.current span{
+	font-size: 30px;
+	font-weight: bold;
+}
